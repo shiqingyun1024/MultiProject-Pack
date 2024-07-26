@@ -4,7 +4,7 @@ import { defineConfig } from 'vite'
 import vue from '@vitejs/plugin-vue'
 import { createHtmlPlugin } from 'vite-plugin-html';
 import { resolve } from 'node:path';
-import { configMap } from './projectConfig.js'
+import { configMap } from './projectsConfig.js'
 const projectName = process.env.PROJECT_NAME
 
 // // 获取命令行参数

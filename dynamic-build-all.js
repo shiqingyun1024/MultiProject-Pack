@@ -1,5 +1,5 @@
 
-import { projects, directories } from './projects.js';
+import { projects, directories } from './projectsConfig.js';
 import { execSync } from 'child_process';
 
 // const projectNames = Object.keys(projects);

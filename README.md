@@ -1,35 +1,7 @@
 # MultiProject-Pack
 - 【vite+vue3】一个项目包含多个小项目并实现多项目单独打包部署访问
 
-This template should help get you started developing with Vue 3 in Vite.
-
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### 打包逻辑和命令如下：
+## 打包逻辑和命令如下：
 
 ```js
 模块化打包的概念可以理解为多个单独的项目可以单独进行打包，也可以全部模块进行打包

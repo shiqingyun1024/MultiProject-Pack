@@ -27,3 +27,8 @@ npm run build -- --projectA,projectB
 所有模块（项目）打包
 npm run build -- --all
 ```
+### commonlint配置
+```
+1、commitlint.config.cjs
+2、.husky
+```
